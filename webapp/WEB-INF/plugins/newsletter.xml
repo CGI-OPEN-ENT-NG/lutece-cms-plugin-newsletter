@@ -12,7 +12,7 @@
     <provider>newsletter.plugin.provider</provider>
     <provider-url>http://lutece.paris.fr</provider-url>
     <icon-url>images/admin/skin/plugins/newsletter/newsletter.png</icon-url>
-    <copyright>Copyright 2001-2009 Mairie de Paris</copyright>
+    <copyright>Copyright 2001-2023 CGI-Learning Hub</copyright>
     <core-version-dependency>
 		<min-core-version>4.0.0</min-core-version>
 		<max-core-version/>	
