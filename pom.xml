@@ -58,6 +58,17 @@
         <developerConnection>scm:git:https://github.com/lutece-platform/lutece-cms-plugin-newsletter.git</developerConnection>
         <url>https://github.com/lutece-platform/lutece-cms-plugin-newsletter.git</url>
       <tag>HEAD</tag>
-  </scm>
-    
+    </scm>
+    <distributionManagement>
+        <repository>
+            <id>cgireleases</id>
+            <name>CGI Maven Releases</name>
+            <url>https://nexus-pic2.support-ent.fr/repository/cgi-maven-releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>cgisnapshots</id>
+            <name>CGI Maven Snapshots</name>
+            <url>https://nexus-pic2.support-ent.fr/repository/cgi-maven-snapshots</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
