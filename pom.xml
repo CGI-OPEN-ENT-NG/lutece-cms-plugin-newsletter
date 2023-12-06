@@ -61,12 +61,12 @@
     </scm>
     <distributionManagement>
         <repository>
-            <id>cgireleases</id>
+            <id>nexusEnt</id>
             <name>CGI Maven Releases</name>
             <url>https://nexus-pic2.support-ent.fr/repository/cgi-maven-releases</url>
         </repository>
         <snapshotRepository>
-            <id>cgisnapshots</id>
+            <id>nexusSnapshots</id>
             <name>CGI Maven Snapshots</name>
             <url>https://nexus-pic2.support-ent.fr/repository/cgi-maven-snapshots</url>
         </snapshotRepository>
